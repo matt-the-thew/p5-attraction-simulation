@@ -8,4 +8,4 @@ our world of newtonian physics.
 
 A possible future project is making this same program, using the gravitation attraction equation (and our very own gravity constant!) to simulate **actual real gravity**. 
 
-It's sub-50 lines, using the p5 lib. I hope you enjoy! As soon as I get a chance I'll host it and show it here.
+It's sub-50 lines, using the p5 lib. I hope you enjoy! As soon as I get a chance I'll host it and show it [here](https://codepen.io/matt_the_thew/project/editor/AdJzem).
